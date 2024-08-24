@@ -1,0 +1,10 @@
+^C:\PROJECCT\COMPUTER-GRAPHICS-2022-NABEEH-RAMI\THIRDPARTY\GLAD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/projecct/computer-graphics-2022-nabeeh-rami -BC:/projecct/computer-graphics-2022-nabeeh-rami/Build --check-stamp-file C:/projecct/computer-graphics-2022-nabeeh-rami/Build/ThirdParty/glad/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

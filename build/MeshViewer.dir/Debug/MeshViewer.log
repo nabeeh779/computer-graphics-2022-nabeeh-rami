@@ -1,0 +1,394 @@
+﻿  Renderer.cpp
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\Camera.h(46,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(581,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(583,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(585,55): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(585,49): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(585,43): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(585,37): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(585,31): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(585,25): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(623,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(625,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(627,55): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(627,49): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(627,43): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(627,37): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(627,31): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(627,25): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(675,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(677,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(679,55): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(679,49): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(679,43): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(679,37): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(679,31): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(679,25): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(727,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(731,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(771,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(774,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(776,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(779,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(788,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(790,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(792,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(808,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(810,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(812,55): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(812,49): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(812,43): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(812,37): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(812,31): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(812,25): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(832,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(834,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(836,55): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(836,49): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(836,43): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(836,37): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(836,31): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(836,25): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(909,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(911,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(913,93): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(913,81): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(913,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(913,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(913,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp(913,33): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MeshViewer.vcxproj -> C:\projecct\computer-graphics-2022-nabeeh-rami\Build\bin\Debug\MeshViewer.exe
+  Copying Shaders
+
+Project Performance Summary:
+       26 ms  C:\projecct\computer-graphics-2022-nabeeh-rami\Build\ZERO_CHECK.vcxproj  20 calls
+                  2 ms  GetTargetPath                              5 calls
+                  1 ms  GetNativeManifest                          5 calls
+                 20 ms  GetProjectInfoForReference                 5 calls
+                  4 ms  GetCopyToOutputDirectoryItems              5 calls
+       55 ms  C:\projecct\computer-graphics-2022-nabeeh-rami\Build\ThirdParty\glad\glad.vcxproj   4 calls
+                  2 ms  GetTargetPath                              1 calls
+                  0 ms  GetNativeManifest                          1 calls
+                 47 ms  GetProjectInfoForReference                 1 calls
+                  6 ms  GetCopyToOutputDirectoryItems              1 calls
+      111 ms  C:\projecct\computer-graphics-2022-nabeeh-rami\Build\ThirdParty\nativefiledialog\nativefiledialog.vcxproj   4 calls
+                  1 ms  GetTargetPath                              1 calls
+                  0 ms  GetNativeManifest                          1 calls
+                 86 ms  GetProjectInfoForReference                 1 calls
+                 24 ms  GetCopyToOutputDirectoryItems              1 calls
+      118 ms  C:\projecct\computer-graphics-2022-nabeeh-rami\Build\ThirdParty\imgui\imgui.vcxproj   4 calls
+                  3 ms  GetTargetPath                              1 calls
+                  0 ms  GetNativeManifest                          1 calls
+                 90 ms  GetProjectInfoForReference                 1 calls
+                 26 ms  GetCopyToOutputDirectoryItems              1 calls
+      147 ms  C:\projecct\computer-graphics-2022-nabeeh-rami\Build\ThirdParty\glfw\src\glfw.vcxproj   4 calls
+                 25 ms  GetTargetPath                              1 calls
+                  1 ms  GetNativeManifest                          1 calls
+                 97 ms  GetProjectInfoForReference                 1 calls
+                 25 ms  GetCopyToOutputDirectoryItems              1 calls
+     3587 ms  C:\projecct\computer-graphics-2022-nabeeh-rami\Build\MeshViewer.vcxproj   1 calls
+               3587 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  ComputeReferenceLinkInputs                 1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  ComputeCLGeneratedLinkInputs               1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  ComputeLegacyManifestEmbedding             1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  GetProjectInfoForReference                 5 calls
+        0 ms  AddLibrariesToProjectsInfoForReference     5 calls
+        0 ms  AddDeployRecipeFileToProjectsInfoForReference   5 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  AddPublicIncludeDirectoriesToProjectsInfoForReference   5 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  _Link                                      1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  _PopulateCommonStateForGetCopyToOutputDirectoryItems   6 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  MakeDirsForFxc                             1 calls
+        0 ms  BuiltProjectOutputGroup                    1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  ComputeCLInputPDBName                      6 calls
+        0 ms  Build                                      1 calls
+        0 ms  _RemoveNameMetadataFromProjectReferenceItems   5 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  ResolveReferences                          6 calls
+        0 ms  AfterResolveReferences                     6 calls
+        0 ms  PrepareProjectReferences                   6 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  _AddOutputPathToGlobalPropertiesToRemove   6 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  BeforeResolveReferences                    6 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  ResolveSDKReferences                       6 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          6 calls
+        0 ms  ResolvedLinkLib                            5 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        1 ms  GetTargetPath                              5 calls
+        1 ms  CreateSatelliteAssemblies                  1 calls
+        1 ms  GetNativeManifest                          5 calls
+        1 ms  BeforeClCompile                            1 calls
+        1 ms  ComputeCLOutputs                           1 calls
+        1 ms  PreBuildEvent                              1 calls
+        1 ms  ComputeRCOutputs                           1 calls
+        1 ms  ComputeLinkSwitches                        1 calls
+        1 ms  BuildLinkTraverse                          1 calls
+        1 ms  ComputeResolveLinkObj                      1 calls
+        1 ms  MakeDirsForCl                              1 calls
+        1 ms  CopyFileToFolders                          1 calls
+        1 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        1 ms  ComputeCustomBuildOutput                   1 calls
+        1 ms  SatelliteDllsProjectOutputGroup            1 calls
+        1 ms  _PrepareForBuild                           1 calls
+        1 ms  RegisterOutput                             1 calls
+        1 ms  MakeDirsForMidl                            1 calls
+        1 ms  SplitResourcesByCulture                    1 calls
+        1 ms  SetTelemetryEnvironmentVariables           1 calls
+        1 ms  ExpandSDKReferences                        6 calls
+        1 ms  IncrementalClean                           1 calls
+        1 ms  FindReferenceAssembliesForReferences       6 calls
+        1 ms  ComputeLinkImportLibraryOutputsForClean    1 calls
+        1 ms  MakeDirsForResourceCompile                 1 calls
+        1 ms  GetFrameworkPaths                          6 calls
+        2 ms  DoLinkOutputFilesMatch                     1 calls
+        2 ms  _CleanGetCurrentAndPriorFileWrites         1 calls
+        2 ms  FinalizeBuildStatus                        1 calls
+        2 ms  CopyFilesToOutputDirectory                 1 calls
+        2 ms  SetCABuildNativeEnvironmentVariables       6 calls
+        2 ms  ContentFilesProjectOutputGroup             1 calls
+        2 ms  MakeDirsForLink                            1 calls
+        2 ms  _GetCopyToOutputDirectoryItemsFromThisProject   6 calls
+        2 ms  GetResolvedWinMD                           6 calls
+        3 ms  GetReferenceAssemblyPaths                  6 calls
+        3 ms  ResolveAssemblyReferences                  6 calls
+        3 ms  CreateRecipeFile                           1 calls
+        3 ms  GetCopyToOutputDirectoryXamlAppDefs        6 calls
+        4 ms  _PrepareForReferenceResolution             6 calls
+        4 ms  GetResolvedLinkLibs                        5 calls
+        5 ms  _CheckWindowsSDKInstalled                  6 calls
+        5 ms  InitializeBuildStatus                      1 calls
+        5 ms  ComputeReferenceCLInput                    6 calls
+        6 ms  _GetProjectReferenceTargetFrameworkProperties   6 calls
+        7 ms  _SplitProjectReferencesByFileExistence     6 calls
+        8 ms  CustomBuild                                1 calls
+        8 ms  AssignTargetPaths                          6 calls
+       14 ms  FixupCLCompileOptions                      5 calls
+       15 ms  AddPublicBMIsToProjectsInfoForReference    5 calls
+       16 ms  WarnCompileDuplicatedFilename              6 calls
+       22 ms  _CheckForInvalidConfigurationAndPlatform   6 calls
+       23 ms  SetBuildDefaultEnvironmentVariables        6 calls
+       23 ms  GetPublicIncludeDirectories                5 calls
+       27 ms  GetTargetPathWithTargetPlatformMoniker     5 calls
+       34 ms  AssignProjectConfiguration                 6 calls
+       63 ms  PrepareForBuild                            6 calls
+      101 ms  _GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences   6 calls
+      113 ms  PostBuildEvent                             1 calls
+      117 ms  GetCopyToOutputDirectoryItems              6 calls
+      198 ms  GetReferencedVCProjectsInfo                6 calls
+      268 ms  Link                                       1 calls
+      470 ms  ResolveProjectReferences                   6 calls
+     2506 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        0 ms  Message                                   14 calls
+        0 ms  ConvertToAbsolutePath                      1 calls
+        0 ms  RemoveDuplicates                           2 calls
+        0 ms  Delete                                     2 calls
+        1 ms  FindUnderPath                              5 calls
+        1 ms  CreateItem                                 2 calls
+        1 ms  ReadLinesFromFile                          2 calls
+        1 ms  AssignCulture                              1 calls
+        1 ms  WriteLinesToFile                           1 calls
+        2 ms  ResolveNonMSBuildProjectOutput             5 calls
+        2 ms  CheckVCToolsetVersion                      6 calls
+        3 ms  AssignProjectConfiguration                 6 calls
+        3 ms  GenerateDesktopDeployRecipe                1 calls
+        4 ms  Touch                                      2 calls
+        7 ms  GetOutOfDateItems                          3 calls
+        9 ms  AssignTargetPath                          42 calls
+       10 ms  MakeDir                                   20 calls
+       24 ms  SetEnv                                    33 calls
+      110 ms  CallTarget                                12 calls
+      113 ms  Exec                                       1 calls
+      262 ms  Link                                       1 calls
+      760 ms  MSBuild                                   23 calls
+     2501 ms  CL                                         1 calls

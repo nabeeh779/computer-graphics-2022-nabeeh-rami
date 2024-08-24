@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Face.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\InitShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\MeshModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Viewer\src\Light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\Face.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\InitShader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\MeshModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\imgui_impl_glfw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\include\imgui_impl_opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Viewer\include\Light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\projecct\computer-graphics-2022-nabeeh-rami\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\shaders\fshader.glsl">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="C:\projecct\computer-graphics-2022-nabeeh-rami\Viewer\shaders\vshader.glsl">
+      <Filter>Shader Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{57A52E60-C122-3706-86E5-1B97B3D8AB6B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader Files">
+      <UniqueIdentifier>{0012F480-3834-36A0-BB3D-2465D9EEFBB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{59B670F8-58F7-37E8-9572-C3CDE8E37B9A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/projecct/computer-graphics-2022-nabeeh-rami/ThirdParty/imgui/CMakeLists.txt
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  imgui.vcxproj -> C:\projecct\computer-graphics-2022-nabeeh-rami\Build\lib\Debug\imgui.lib
